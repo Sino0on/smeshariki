@@ -1,4 +1,4 @@
 print('dastan')
 
-print('das')
-dasdasdasdasd
+print('kairat')
+
